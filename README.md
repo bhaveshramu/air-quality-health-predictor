@@ -1,38 +1,38 @@
-# 🌫️ Real-Time Air Quality & Health Risk Predictor
+# Real-Time Air Quality & Health Risk Predictor
 
 An AI-powered web application that analyzes real-time air pollution data and predicts health risks using machine learning.
 The system fetches live air quality data for any city, analyzes pollutant levels, and provides personalized health risk insights through an interactive dashboard.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 Air pollution has become one of the most critical environmental and public health challenges worldwide. Most existing applications only show Air Quality Index (AQI) values without explaining what those numbers mean for human health.
 
 This project solves that problem by combining:
 
-* 🌍 Real-time AQI data from APIs
-* 🤖 Machine Learning-based risk prediction
-* 📊 Interactive data visualization
-* 🧑‍⚕️ Health risk interpretation
+* Real-time AQI data from APIs
+* Machine Learning-based risk prediction
+* Interactive data visualization
+* Health risk interpretation
 
 The application provides an easy-to-understand dashboard that helps users understand pollution levels and potential health risks.
 
 ---
 
-## 🚀 Features
+## Features
 
-* 🌍 Real-time air quality data for any city
-* 📍 Automatic location detection
-* 📊 Interactive pollution charts
-* 🌡️ AQI gauge visualization
-* ⚠️ Health risk classification based on AQI
-* 🤖 Machine learning prediction for air quality category
-* 🖥️ Modern Streamlit dashboard UI
+* Real-time air quality data for any city
+* Automatic location detection
+* Interactive pollution charts
+* AQI gauge visualization
+* Health risk classification based on AQI
+* Machine learning prediction for air quality category
+* Modern Streamlit dashboard UI
 
 ---
 
-## 🧠 Machine Learning Model
+## Machine Learning Model
 
 The project uses a **Random Forest Classifier** to predict air quality categories based on pollutant values.
 
@@ -59,7 +59,7 @@ Example predictions include:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Programming Language
 
@@ -86,7 +86,7 @@ Example predictions include:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 air-quality-health-predictor
@@ -110,27 +110,27 @@ air-quality-health-predictor
 
 ---
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
-1️⃣ Clone the repository
+1 Clone the repository
 
 ```
 git clone https://github.com/YOUR_USERNAME/air-quality-health-predictor.git
 ```
 
-2️⃣ Navigate to the project folder
+2️ Navigate to the project folder
 
 ```
 cd air-quality-health-predictor
 ```
 
-3️⃣ Install dependencies
+3️ Install dependencies
 
 ```
 pip install -r requirements.txt
 ```
 
-4️⃣ Run the Streamlit app
+4️ Run the Streamlit app
 
 ```
 streamlit run app.py
@@ -140,7 +140,7 @@ The dashboard will open in your browser.
 
 ---
 
-## 📊 Dashboard Features
+## Dashboard Features
 
 The application dashboard provides:
 
@@ -157,7 +157,7 @@ Users can either:
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 Possible extensions for this project include:
 
